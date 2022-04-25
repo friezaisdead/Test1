@@ -1,0 +1,17 @@
+{
+  "title": "Hello World",
+  "description": "Test123",
+  "artist": "Noone",
+  "author": "Unknown",
+  "cover": "https://www.pngfind.com/pngs/m/1-14651_meme-faces-thinking-pensando-meme-hd-png-download.png",
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "",
+      "last_updated": "1650871490",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/19013def-fe3b-4f19-88db-439bcdc35772"
+      }
+    }
+  }
+}
